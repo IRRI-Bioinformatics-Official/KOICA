@@ -68,7 +68,7 @@ body {
 /* Allow long text to wrap instead of resizing table */
 .content table td {
   word-wrap: break-word;
-  vertical-align: top;
+  vertical-align: center;
 }
 .content table,
 .content table td {
